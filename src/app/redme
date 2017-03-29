@@ -1,0 +1,4 @@
+app/app.component.{ts,html,css,spec.ts}:
+  使用HTML模板、CSS样式和单元测试定义AppComponent组件。 它是根组件，随着应用的成长它会成为一棵组件树的根节点。
+app/app.module.ts
+  定义AppModule，这个根模块会告诉Angular如何组装该应用。 目前，它只声明了AppComponent。 稍后它还会声明更多组件。
